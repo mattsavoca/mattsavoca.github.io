@@ -6,7 +6,7 @@ description: "Data Science Portfolio"
 
 #theme_version: '2.8.2'
 
-cascade:
-  featured_image: '/images/ggplot_example.png'
+# cascade:
+  # featured_image: '/images/ggplot_example.png'
 ---
 Data Scientist who enjoys games, sports, and games abouts sports.
