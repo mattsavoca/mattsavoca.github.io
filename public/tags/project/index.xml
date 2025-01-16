@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on Matt Savoca</title>
+    <link>http://localhost:1313/tags/project/</link>
+    <description>Recent content in Project on Matt Savoca</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predictive Resource Optimization Platform</title>
+      <link>http://localhost:1313/projects/resource-optimzier/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/resource-optimzier/</guid>
+      <description>&lt;p&gt;As the lead data scientist, I developed a predictive analytics platform designed to optimize decision-making in constrained, high-stakes environments. By leveraging Python, R, SQL, and gradient boosting models (XGBoost), I created robust range-of-outcome forecasts with floor, median, and ceiling projections. These forecasts utilized over 50 features, including contextual data streams such as time-sensitive metrics, correlation insights, and external indicators to ensure comprehensive modeling.&lt;/p&gt;&#xA;&lt;p&gt;To enhance adaptability and accuracy, I implemented a simulation framework that incorporated smaller machine learning models to model relationships between key inputs. This approach enabled dynamic scenario analysis and improved confidence in resource allocation recommendations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automated Analysis and Insight Data Pipeline for Athletic Competitions and Proxy Games</title>
+      <link>http://localhost:1313/projects/single-game-pipeline/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/single-game-pipeline/</guid>
+      <description>&lt;p&gt;I developed an automated reporting structure for NFL single-game contests, specifically for Daily Fantasy Sports platforms like DraftKings and FanDuel. Leveraging R Shiny, Plotly, and APIs, I created custom data visualizations that highlighted game environments and key performance indicators. These included projected versus expected fantasy points and custom metrics like True Drive Success Rate for quarterbacks.&lt;/p&gt;&#xA;&lt;p&gt;The system enabled real-time, multi-game reporting, freeing up analysts to focus on insights and storytelling. This innovation significantly expanded the site&amp;rsquo;s DFS content offerings and was widely lauded for increasing viewership, engagement, and profitability.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Athlete Lifetime (Single-Season) Value Simulation Platform</title>
+      <link>http://localhost:1313/projects/fantasy-football-simulations/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/fantasy-football-simulations/</guid>
+      <description>&lt;p&gt;I developed a simulation platform that calculated lifetime value metrics for entities, specifically tailored to fantasy sports. Built using R, rShiny, and the ffSimulator package, the tool enabled users to upload custom player rankings from Underdog.com—a leading fantasy drafting platform—and generate simulations based on their inputs.&lt;/p&gt;&#xA;&lt;p&gt;The platform provided a user-friendly front-end dashboard where users could explore personalized projections, including ranges of outcomes such as floor and ceiling values. A standout feature was the introduction of &amp;ldquo;usable weeks,&amp;rdquo; a novel metric that quantified the weeks a player could meaningfully contribute to a lineup. This metric, akin to a lifetime value calculation, demonstrated its broader applicability beyond the sports domain.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
