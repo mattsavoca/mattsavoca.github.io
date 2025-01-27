@@ -9,4 +9,4 @@ description: "Data Science Portfolio"
 # cascade:
   # featured_image: '/images/ggplot_example.png'
 ---
-Data Scientist who enjoys games, sports, and games abouts sports.
+Data Scientist who enjoys games, sports, and games about sports.
